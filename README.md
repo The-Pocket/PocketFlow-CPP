@@ -1,6 +1,6 @@
 # PocketFlow C++
 
-A minimalist workflow framework, ported from Python to C++.
+A minimalist LLM framework, ported from Python to C++.
 
 ## Overview
 
