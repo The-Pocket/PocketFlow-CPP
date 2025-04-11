@@ -1,0 +1,173 @@
+# CMake generated files and directories
+/[Bb]uild/
+/build-*/
+/out/
+/install/
+CMakeCache.txt
+CMakeFiles/
+CMakeScripts/
+cmake_install.cmake
+CTestTestfile.cmake
+CTestConfig.cmake
+install_manifest.txt
+compile_commands.json
+Makefile
+*.make
+
+# Object files, libraries, executables
+*.o
+*.obj
+*.lo
+*.la
+*.a
+*.lib
+*.so
+*.so.*
+*.dylib
+*.dll
+*.exe
+*.out
+*.app
+*.i # Preprocessed C files
+*.s # Assembly files
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Dependency files
+*.d
+
+# ==========================================
+# IDE / Editor specific files
+# ==========================================
+
+# Visual Studio Code
+.vscode/
+*.code-workspace
+
+# Visual Studio
+.vs/
+*.sln.docstates
+*.suo
+*.user
+*.vcxproj.user
+*.vcxproj.filters
+ipch/
+obj/
+bin/
+[Dd]ebug/
+[Rr]elease/
+x64/
+Win32/
+ARM/
+ARM64/
+
+# CLion
+.idea/
+cmake-build-*/
+
+# Qt Creator
+*.pro.user
+*.pro.user.*
+*.qbs.user
+*.qbs.user.*
+
+# Xcode
+*.xcodeproj/
+*.xcworkspace/
+xcuserdata/
+*.xccheckout
+
+# Eclipse CDT
+.cproject
+.project
+.settings/
+
+# NetBeans
+nbproject/
+
+# Sublime Text
+*.sublime-project
+*.sublime-workspace
+
+# Vim / Emacs / TextMate / etc.
+*.swp
+*~
+.*.swp
+.*.swo
+Session.vim
+.DS_Store
+*.tm_properties
+*.bak
+*.orig
+
+# ==========================================
+# Operating System specific files
+# ==========================================
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+Network Trash Folder
+Temporary Items
+Icon?
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.lnk
+
+# Linux
+*~
+.directory
+
+# ==========================================
+# Testing / Coverage / Logging
+# ==========================================
+Testing/
+coverage/
+*.gcno
+*.gcda
+*.gcov
+*.lcov
+*.profraw
+*.log
+junit*.xml # if generating JUnit test reports
+
+# ==========================================
+# Dependency Management (add if using)
+# ==========================================
+# Conan
+# conanbuildinfo.*
+# conaninfo.txt
+# _build/
+
+# vcpkg
+# vcpkg_installed/
+
+# ==========================================
+# Project Specific (adjust as needed)
+# ==========================================
+# Example executable name from main.cpp
+/pocketflow_example
+/pocketflow_example.exe
+
+# Any local configuration files
+# config.local
+
+# Any generated documentation you don't commit
+# docs/html
+# docs/latex
+
+# Package files (if built locally)
+# *.tar.gz
+# *.zip
+# *.deb
+# *.rpm
